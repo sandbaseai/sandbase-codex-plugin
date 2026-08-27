@@ -37,6 +37,8 @@
       "Run this task with the best matching SandBase tool."
     ],
     "brandColor": "#20B884",
-    "composerIcon": "./assets/icon.svg"
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg",
+    "screenshots": []
   }
 }

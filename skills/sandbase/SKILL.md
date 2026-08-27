@@ -1,6 +1,7 @@
 ---
 name: sandbase
 description: Discover, inspect, and run 2,000+ AI models and API tools through SandBase MCP. Use for LLM inference, media generation, search, scraping, embeddings, social data, and structured retrieval when a dedicated configured tool is unavailable.
+license: Apache-2.0
 ---
 
 # SandBase MCP
