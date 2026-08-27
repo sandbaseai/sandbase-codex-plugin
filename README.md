@@ -2,6 +2,7 @@
 
 [![SandBase CLI](https://img.shields.io/badge/powered%20by-sandbaseai%2Fcli-20B884)](https://github.com/sandbaseai/cli)
 [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)](https://github.com/sandbaseai/cli/stargazers)
+[![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-listed-5a67d8)](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fcli)
 [![Latest plugin release](https://img.shields.io/github/v/release/sandbaseai/sandbase-codex-plugin)](https://github.com/sandbaseai/sandbase-codex-plugin/releases/latest)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](./LICENSE)
 
@@ -12,6 +13,7 @@ If the integration saves you setup time, [star SandBase CLI](https://github.com/
 ## What it adds
 
 - Six MCP tools: discover, inspect, run, poll, history, and account balance.
+- A canonical `io.github.sandbaseai/cli` entry in the official MCP Registry.
 - One guided Agent Skill that enforces discover → inspect → run.
 - An immutable v0.1.17 launcher with a published SHA-256 checksum.
 - Browser-based SandBase authentication; no provider API keys are stored in this repository.
