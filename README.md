@@ -1,9 +1,13 @@
 # SandBase for Codex
 
 [![SandBase CLI](https://img.shields.io/badge/powered%20by-sandbaseai%2Fcli-20B884)](https://github.com/sandbaseai/cli)
+[![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)](https://github.com/sandbaseai/cli/stargazers)
+[![Latest plugin release](https://img.shields.io/github/v/release/sandbaseai/sandbase-codex-plugin)](https://github.com/sandbaseai/sandbase-codex-plugin/releases/latest)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](./LICENSE)
 
 The official Codex plugin for [SandBase CLI](https://github.com/sandbaseai/cli). It gives Codex a local MCP server and Agent Skill for discovering, inspecting, and running 2,000+ AI models and APIs through one account.
+
+If the integration saves you setup time, [star SandBase CLI](https://github.com/sandbaseai/cli) so more agent users can discover the project.
 
 ## What it adds
 
