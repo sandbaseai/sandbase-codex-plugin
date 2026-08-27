@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">SandBase</title>
+  <desc id="description">A green and black abstract sandglass mark</desc>
+  <rect width="512" height="512" rx="112" fill="#101817"/>
+  <path d="M128 112h256v48c0 58-33 92-82 116 49 24 82 58 82 116v8H128v-8c0-58 33-92 82-116-49-24-82-58-82-116v-48Z" fill="#20B884"/>
+  <path d="M191 160h130c-8 29-28 46-65 63-37-17-57-34-65-63Zm65 169c37 17 57 34 65 63H191c8-29 28-46 65-63Z" fill="#F7FBFA"/>
+</svg>

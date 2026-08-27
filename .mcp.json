@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "sandbase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cli-0.1.17.tgz",
+        "mcp-bridge",
+        "--client",
+        "codex"
+      ]
+    }
+  }
+}

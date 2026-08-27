@@ -1,0 +1,42 @@
+{
+  "name": "sandbase-codex-plugin",
+  "version": "0.1.17",
+  "description": "Access 2,000+ AI models and APIs from Codex through a local MCP server and guided Agent Skill.",
+  "author": {
+    "name": "SandBase",
+    "url": "https://github.com/sandbaseai"
+  },
+  "homepage": "https://www.sandbase.ai/docs/setup/cli",
+  "repository": "https://github.com/sandbaseai/sandbase-codex-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ai-models",
+    "codex",
+    "mcp",
+    "model-routing",
+    "multimodal-ai"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "SandBase",
+    "shortDescription": "2,000+ AI models and APIs for Codex",
+    "longDescription": "Discover, inspect, and run 2,000+ LLM, image, video, audio, search, scraping, and data APIs through one local MCP interface.",
+    "developerName": "SandBase",
+    "category": "Developer Tools",
+    "capabilities": [
+      "MCP",
+      "Agent Skill"
+    ],
+    "websiteURL": "https://sandbase.ai",
+    "privacyPolicyURL": "https://www.sandbase.ai/privacy",
+    "termsOfServiceURL": "https://www.sandbase.ai/terms",
+    "defaultPrompt": [
+      "Find an AI model or API for this task.",
+      "Compare suitable models and their pricing.",
+      "Run this task with the best matching SandBase tool."
+    ],
+    "brandColor": "#20B884",
+    "composerIcon": "./assets/icon.svg"
+  }
+}
